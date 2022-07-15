@@ -1,8 +1,13 @@
 {
- "resi": [
-  {
-   "link": "https://resi.id/s/CM66443668613",
-   "status": "DELIVERED"
-  }
- ]
+  "resi": [
+    {
+      "link": "https://resi.id/s/123456788"
+    },
+    {
+      "link": "https://resi.id/s/8738474"
+    },
+    {
+      "link": "https://resi.id/s/36474837"
+    }
+  ]
 }
