@@ -2,7 +2,7 @@ name: Check Update Resi Every 15 Menit
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # every 15 minute
+    - cron: "*/10000 * * * *" # every 15 minute
 
 jobs:
   build:
